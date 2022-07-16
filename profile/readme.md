@@ -8,7 +8,7 @@ Here you can find all of our open source projects
 
 ### Join hglabor today
 
-Join via hglabor.de or hglabor.lol, its not that difficult (`1.13 - 1.19.x`)
+Join via hglabor.de, its not that difficult (`1.13 - 1.19.x`)
 
 ![how to join](https://i.imgur.com/Im72Qa4.gif)
 
