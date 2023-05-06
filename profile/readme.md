@@ -1,22 +1,29 @@
+<h1 align="center">Hi 👋, I'm Noriskky</h1>
+<h3 align="center">A Web & Java Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=noriskky&label=Profile%20views&color=0e75b6&style=flat" alt="noriskky" /> </p>
 
-![icon](https://avatars.githubusercontent.com/u/71789044?s=200&v=4)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noriskky" alt="noriskky" /></a> </p>
 
-## hglabor.de is a Minecraft server based on SoupPVP
+<p align="left"> <a href="https://twitter.com/noriskky__" target="blank"><img src="https://img.shields.io/twitter/follow/noriskky__?logo=twitter&style=for-the-badge" alt="noriskky__" /></a> </p>
 
-Here you can find all of our open source projects
+- 🌱 I’m currently learning **C++, Rust**
 
-### Join hglabor today
+- 💬 Ask me about **Vue, Java**
 
-Join via hglabor.de, its not that difficult (`1.13 - 1.19.x`)
+- 📫 How to reach me **Noriskky__#6676**
 
-![how to join](https://i.imgur.com/Im72Qa4.gif)
+- ⌨️ I use [Vue, Java, IntelliJ, Aqua & VS Codium](Vue, Java, IntelliJ, Aqua & VS Codium)
 
-Questions? [Join our discord](https://discord.gg/Hx2zgZRV5a).
+- ⚡ Fun fact **I am Crazy lmao 😉**
 
-### Huge thanks to our developement team
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/noriskky__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="noriskky__" height="30" width="40" /></a>
+<a href="https://discord.gg/Noriskky__#6676" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Noriskky__#6676" height="30" width="40" /></a>
+</p>
 
-[@copyandexecute](https://github.com/copyandexecute), [@mooziii](https://github.com/mooziii), [@Bestautoyes](https://github.com/BestAutoyes), [@Krxwallo](https://github.com/Krxwallo) and [@polylymer](https://github.com/polylymer)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-Also, big thanks to all contributors
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=noriskky&show_icons=true&locale=en&layout=compact" alt="noriskky" /></p>
