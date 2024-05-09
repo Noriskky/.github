@@ -4,7 +4,4 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noriskky&theme=transparent&show_icons=true&hide_border=true&layout=donut">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Noriskky&theme=transparent&show_icons=true&hide_border=true&count_private=true">
-
-<br>
-<br>
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Noriskky&theme=transparent&hide_border=true">
