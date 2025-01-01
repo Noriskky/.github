@@ -1,7 +1,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=noriskky&label=Profile%20views&color=blue&style=for-the-badge" alt="noriskky" /> </p>
 
-## ![Header](./github-header-image.png)
+<p align="center">
+<h1>My State of Mind</h1>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noriskky&theme=transparent&show_icons=true&hide_border=true&layout=donut-vertical">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Noriskky&theme=transparent&show_icons=true&hide_border=true&count_private=true">
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Noriskky&theme=transparent&hide_border=true">
+As another evening begins in 2025, a strange feeling washes over me. Lying in bed with my Macbook, I ponder the vastness of life ahead—it’s incredible.  I’ve witnessed people boast about their code and statistics, but 2024 taught me the pointlessness of such bragging.  I also discovered my laziness when coding; if you think I'm a skilled programmer, you're mistaken—I'm far from it.  Coding for over two hours often sends me into a spiral of existential questions, prompting me to question my path and consider alternative pursuits.  This README will henceforth serve as a sort of blog, or perhaps something else entirely.  I believe I'll improve someday.
+
+1.1.24 Noriskky
+</p>
